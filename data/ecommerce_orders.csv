@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,region,customer_segment,channel,category,product,quantity,unit_price,discount_pct,revenue,cost,profit,returned,satisfaction_score,delivery_days
+1000001,2026-01-05,10001,South,Consumer,Website,Electronics,Laptop,1,900,10,810,650,160,0,4.5,3
+1000002,2026-01-06,10002,North,Corporate,Mobile App,Home,Office Chair,2,180,5,342,250,92,0,4.0,4
+1000003,2026-01-08,10003,West,Consumer,Marketplace,Fashion,Shoes,2,80,15,136,90,46,1,3.2,6
+1000004,2026-01-12,10004,East,Small Business,Website,Electronics,Monitor,2,260,8,478.4,350,128.4,0,4.2,3
+1000005,2026-01-15,10005,South,Consumer,Mobile App,Beauty,Skincare Kit,3,55,12,145.2,90,55.2,0,4.7,2
+1000006,2026-01-20,10006,Central,Corporate,Website,Sports,Fitness Tracker,1,130,5,123.5,82,41.5,0,4.1,4
+1000007,2026-02-02,10001,South,Consumer,Website,Electronics,Smartphone,1,650,10,585,470,115,0,4.4,3
+1000008,2026-02-07,10007,North,Consumer,Marketplace,Books,Books Bundle,4,45,5,171,110,61,0,4.0,5
+1000009,2026-02-14,10008,West,Small Business,Website,Home,Office Chair,1,190,0,190,140,50,0,4.3,3
+1000010,2026-02-21,10009,East,Consumer,Mobile App,Electronics,Headphones,2,95,10,171,105,66,1,3.5,7
